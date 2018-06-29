@@ -14,6 +14,7 @@
         "Yeet!!", "Groovy.",
         "Unacceptable!!", "Acceptable.",
         "I would say yes with a chance of 10%.", "I would say yes with a chance of 90%.",
+        "Don't tell me you actually think that's true", "How stupid of you to think otherwise",
         "Lemme answer with a question: Is Trump sexy and your dick big?","Lemme answer with a question: Is Pepey dank?",
         "Im not to sure",
         "Thats a hard question",
@@ -28,6 +29,7 @@
         "Im too busy rn. Lets ask <@461179802259292161>.",
         "Imma ask this sexy dude.",
         "Redirecting you to this manly alpha-male.",
+        "Let's ask this sex machine.",
         "Lets ask <@461179802259292161>."
     ],
     "responses_ask_ded" : [
@@ -53,6 +55,7 @@
         ":open_mouth: ",
         "So direct.. ",
         "You make me horny... ",
+        "I feel horny, where's Maniac... 
         "Registering wet words..\n"
     ],
     "keywords_horny" : ["horny", "penis", "dick", "cock", "vagina", "vag", "clit", "shaft", "nude", "naked",
@@ -83,7 +86,7 @@
             "c" : ["creative","concealed","courageous","crispy","chinese","careful","capable","caring","calm","cautious","cold","cool"],
             "d" : ["dangling","dumb","dope","dimm","dank","disabled","dehydrated"],
             "e" : ["enraged","embeded","endangered","erosive","enabled"],
-            "f" : ["fucked","fried","fidget","fat","fragile","fake","famous","fuckable","fucktastic"],
+            "f" : ["fucked","fried","fidget","fat","fragile","fake","famous","fuckable","fucktastic", "Fuckable"],
             "g" : ["gimped","giant","great","grave","great","gigantic","gay","ghastly","ginger","genderfluid","green"],
             "h" : ["helping","homosexual","holy","haunted","hindered","half","hairy","hard","handheld","happy","harmful","horny","hetero","hot","half-assed","hydrated"],
             "i" : ["itchy","intellectual","iconic","idiotic","ignorant","illegal","illogical","illuminating","impressive"],
@@ -98,7 +101,7 @@
             "r" : ["rigged","retarded","rallied","rolled-over","raped","randomized","red","racist","rainy","real"],
             "s" : ["slayed","silly","stiff","stretched","stared","smelly","soft","sick","shiny","sacred","sagging","salty","sore","sour"],
             "t" : ["tampered","triangled","tender","tall","terrorizing"],
-            "u" : ["unbeatable","undermined","unbelievable","unbirth","ugly","unimpressive"],
+            "u" : ["unbeatable","undermined","unbelievable","unbirth","ugly","unimpressive","underaged"],
             "v" : ["vaginal","vigirous","vandalizing","violet","virgin"],
             "w" : ["whimsy","widenend","worn-out","well","whiny"],
             "x" : ["xerographic","xanthous","xenomorphed","xeric","xenophobic","xenosexual"],
@@ -110,7 +113,7 @@
             "b" : ["Biggot","Binder","Bowling","Book","Beer","Birth","Baby","Bee","Brush","Bottle"],
             "c" : ["Car","Cement","Cigarre","Cider","Cock","Cola","Can","Condom","Creeper","ChuckNorris","Card","Case","Clouds","Cowboy"],
             "d" : ["Dog","Dick","Dam","Dab","Dip","Driver","Dream","Deaf","Donald","Dust","Death"],
-            "e" : ["Egypt","Enderman","Erection","Eagle","Earphones","Eye"],
+            "e" : ["Egypt","Enderman","Erection","Eagle","Earphones","Eye", "Eggplant"],
             "f" : ["Food","Fan","Feet","Fuckboy","Fuck","Forest","Fence","Frog","Fridge"],
             "g" : ["Ginger","Gold","Gallium","Gate","Gun","Graphics"],
             "h" : ["Hades","Horse","Hell","Heaven","Hogwards","Hydrater"],
@@ -120,18 +123,18 @@
             "l" : ["Label","Liquer","Lady","Lord","Luigi","Lymph","Lion"],
             "m" : ["Mario","Man","Mouth","Milestone","Mine","Maggot"],
             "n" : ["Nipples","Netherland","Night","Niggerland","Northpole","Nose"],
-            "o" : ["Opus","Octagon","Octopus","Oven"],
+            "o" : ["Opus","Octagon","Octopus","Oven","Ovary"],
             "p" : ["Penis","Pen","Park","Pizza","Paint","Poker","Playboy","Processor","Paintbrush","Pyjamaparty"],
             "q" : ["Quote","Quarks","Question","Queen","Qualification"],
             "r" : ["Racist","Revolution","Rights","River","Revenge","Rape"],
             "s" : ["Spinner","Screen","Sperm","Sky","Shotgun","Smegma","Speakers","Silence","Soap","Sleepover"],
             "t" : ["Throat","Tinder","Twitter","Timmy","Tree","Tarzan","Toothbrush","Takeoff","Technique","Target","Tank","Tail","Taxi"],
-            "u" : ["Uberdriver","Uterus","Urethra"],
+            "u" : ["Uberdriver","Uterus","Urethra","Underwear","Urine"],
             "v" : ["Vinegar","Vodka","Vagina","Vandalizement","Virgin"],
             "w" : ["Washmachine","Wine","Window","Wario","Waluigi","Water"],
             "x" : ["Xenomorph","X-Chromosome","Xylophone","X-Factor"],
             "y" : ["Yacht","YEEEET","Ying","Yellow","Yoyo","You","Youth","Youngster","Yang","Y-Chromosome"],
-            "z" : ["Zoo","Zit"]
+            "z" : ["Zoo","Zit", "Zebra", "Zip"]
         }
     },
     "maniac_faces" : [
@@ -142,6 +145,7 @@
         "OwO",
         "O▵O",
         "◕▵◕",
+        "μwμ"
         "░░░▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓\n░▓▓▓░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓░░░▓▓▓\n▓▓░░░░░░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░░░░░░░░░▓▓\n▓▓░░░░░░░░░▓▓▓▓░░░░▓▓▓▓▓▓▓░░░░▓▓▓▓░░░░░░░░▓▓\n░▓▓░░░░░░░▓▓▓▓▓░░░░▓▓▓▓▓▓░░░░▓▓▓▓▓░░░░░░░▓▓▓\n░░▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓\n░░░░▓▓░░░░░░░░░░░▓░░▓▓▓▓░░▓▓░░░░░░░░░░▓▓░\n░░░░▓▓░░░░░░░░░░░░▓▓▓░░░▓▓▓░░░░░░░░░░░▓▓░"
     ]
 }
