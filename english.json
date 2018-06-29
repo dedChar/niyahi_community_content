@@ -1,0 +1,147 @@
+{
+    "responses_ask_standard" : [
+        "no","yes",
+        "Hah! no","Hah! yes",
+        "Ehm.. no?","Ehm.. yes?",
+        "Nah","Yeh",
+        "Negative","Positive",
+        "Lol. no","Lol. yes",
+        "FUCK NO","FUCK YES",
+        "OH GOD! NO","OH HEAVENS! YES",
+        "That would be a no.","That would actually be a yes.",
+        "Rather not.", "Definetly.",
+        ":-1:", ":+1:",
+        "Yeet!!", "Groovy.",
+        "Unacceptable!!", "Acceptable.",
+        "I would say yes with a chance of 10%.", "I would say yes with a chance of 90%.",
+        "Lemme answer with a question: Is Trump sexy and your dick big?","Lemme answer with a question: Is Pepey dank?",
+        "Im not to sure",
+        "Thats a hard question",
+        "Im unsure..",
+        "Ask me later.",
+        "Oof. Try again.",
+        "We need to research that.",
+        "Holey moley.",
+        "Hot"
+    ],
+    "responses_ask_maniac" : [
+        "Im too busy rn. Lets ask <@461179802259292161>.",
+        "Imma ask this sexy dude.",
+        "Redirecting you to this manly alpha-male.",
+        "Lets ask <@461179802259292161>."
+    ],
+    "responses_ask_ded" : [
+        "Im too busy rn. Lets ask <@434751781461819393>",
+        "I dont know. But i know someone square who can help.",
+        "I shall summon the wise one from his grave.",
+        "Lets ask <@434751781461819393>"
+    ],
+    "responses_ask_null" : [
+        "You forgot the question, honey.",
+        "Theres nothing to answer there, buddy.",
+        "You forgot to type a question.",
+        "I think you have forgotten to write a question while staring at my boobs.",
+        "Are you too shy?",
+        "And the void stares back.",
+        "N U L L"
+    ],
+    "responses_ask_horny_pre" : [
+        "Oooof. ",
+        "Oh..",
+        "Wow. You are using lots of horny words. Well... ",
+        "Horny.. ",
+        ":open_mouth: ",
+        "So direct.. ",
+        "You make me horny... ",
+        "Registering wet words..\n"
+    ],
+    "keywords_horny" : ["horny", "penis", "dick", "cock", "vagina", "vag", "clit", "shaft", "nude", "naked",
+        "sweat", "testicals", "balls", "fuck", "hot", "sex", "loli", "blush", "masturbate", "birth", "fetish",
+        "pregnant", "pregnate", "dildo", "suck", "succ", "porn", "hentai", "cum", "erect", "rapist", "tits", "boob", "boobs", "breast"
+    ],
+    "responses_ask_angry_pre" : [
+        "Heated i see.. ",
+        "Not so mean please. ",
+        "Oii... ",
+        "Calm down.. ",
+        ":open_mouth: ",
+        "Mean words :I ",
+        "Hey be nice. "
+    ],
+    "rando" : {
+        "asked" : [
+            "Somone asked me this once: \"%s\"",
+            "\"%s\" That's something someone asked me once",
+            "I remember this question \"%s\"",
+            "I got asked this \"%s\""
+        ]
+    },
+    "acronym" : {
+        "adjective" : {
+            "a" : ["arabic","anal","arabish","assumed","abled","above","academic","accelerating","accepting","active","accurate","angsty"],
+            "b" : ["big","bundled","biggoted","blue","bogus","bitchy","black"],
+            "c" : ["creative","concealed","courageous","crispy","chinese","careful","capable","caring","calm","cautious","cold","cool"],
+            "d" : ["dangling","dumb","dope","dimm","dank","disabled","dehydrated"],
+            "e" : ["enraged","embeded","endangered","erosive","enabled"],
+            "f" : ["fucked","fried","fidget","fat","fragile","fake","famous","fuckable","fucktastic"],
+            "g" : ["gimped","giant","great","grave","great","gigantic","gay","ghastly","ginger","genderfluid","green"],
+            "h" : ["helping","homosexual","holy","haunted","hindered","half","hairy","hard","handheld","happy","harmful","horny","hetero","hot","half-assed","hydrated"],
+            "i" : ["itchy","intellectual","iconic","idiotic","ignorant","illegal","illogical","illuminating","impressive"],
+            "j" : ["joking","jizzing","jazzy","jelly","jade","jerking","jewish","junior","joyful","jealous"],
+            "k" : ["kiting","killing","kemstarring","killable","kind","keen","kinky"],
+            "l" : ["long","longing","living","lordy","labelled","liable","lacking","legal","laid","lame","lewd"],
+            "m" : ["moaning","mint-flavoured","molested","mad","man-made","magnificent","magnetizing","magnetized","maniac"],
+            "n" : ["nominated","niggerised","neverending","narrow","nasty","native","naive","naked","nazi","negro","nani"],
+            "o" : ["oral","overdone","octagonal","obese","obedient","obvious","obsessed","oily","old","oriental"],
+            "p" : ["painted","puffed","penile","pensive","pacific","pandering","pale","paralized","pink"],
+            "q" : ["quoted","quantized","quality","qualified","quick","quadratic","quiet"],
+            "r" : ["rigged","retarded","rallied","rolled-over","raped","randomized","red","racist","rainy","real"],
+            "s" : ["slayed","silly","stiff","stretched","stared","smelly","soft","sick","shiny","sacred","sagging","salty","sore","sour"],
+            "t" : ["tampered","triangled","tender","tall","terrorizing"],
+            "u" : ["unbeatable","undermined","unbelievable","unbirth","ugly","unimpressive"],
+            "v" : ["vaginal","vigirous","vandalizing","violet","virgin"],
+            "w" : ["whimsy","widenend","worn-out","well","whiny"],
+            "x" : ["xerographic","xanthous","xenomorphed","xeric","xenophobic","xenosexual"],
+            "y" : ["yellow","yearly","young","yummy","yucky","yankee"],
+            "z" : ["zapped","zipped","zigzag","zealouse","zany","zonary","zombie","zoological"]
+        },
+        "objects" : {
+            "a" : ["Anus","Andrus","Ariel","Amanda","Advertisement","Ant"],
+            "b" : ["Biggot","Binder","Bowling","Book","Beer","Birth","Baby","Bee","Brush","Bottle"],
+            "c" : ["Car","Cement","Cigarre","Cider","Cock","Cola","Can","Condom","Creeper","ChuckNorris","Card","Case","Clouds","Cowboy"],
+            "d" : ["Dog","Dick","Dam","Dab","Dip","Driver","Dream","Deaf","Donald","Dust","Death"],
+            "e" : ["Egypt","Enderman","Erection","Eagle","Earphones","Eye"],
+            "f" : ["Food","Fan","Feet","Fuckboy","Fuck","Forest","Fence","Frog","Fridge"],
+            "g" : ["Ginger","Gold","Gallium","Gate","Gun","Graphics"],
+            "h" : ["Hades","Horse","Hell","Heaven","Hogwards","Hydrater"],
+            "i" : ["Iron","Inductor","Item","Iphone","Imac","Impression","Implementation"],
+            "j" : ["Jesus","Jade","Judy","Jacob","Jaguar","Jackdaniels"],
+            "k" : ["Killer","Kite","Kindergarten","Knight"],
+            "l" : ["Label","Liquer","Lady","Lord","Luigi","Lymph","Lion"],
+            "m" : ["Mario","Man","Mouth","Milestone","Mine","Maggot"],
+            "n" : ["Nipples","Netherland","Night","Niggerland","Northpole","Nose"],
+            "o" : ["Opus","Octagon","Octopus","Oven"],
+            "p" : ["Penis","Pen","Park","Pizza","Paint","Poker","Playboy","Processor","Paintbrush","Pyjamaparty"],
+            "q" : ["Quote","Quarks","Question","Queen","Qualification"],
+            "r" : ["Racist","Revolution","Rights","River","Revenge","Rape"],
+            "s" : ["Spinner","Screen","Sperm","Sky","Shotgun","Smegma","Speakers","Silence","Soap","Sleepover"],
+            "t" : ["Throat","Tinder","Twitter","Timmy","Tree","Tarzan","Toothbrush","Takeoff","Technique","Target","Tank","Tail","Taxi"],
+            "u" : ["Uberdriver","Uterus","Urethra"],
+            "v" : ["Vinegar","Vodka","Vagina","Vandalizement","Virgin"],
+            "w" : ["Washmachine","Wine","Window","Wario","Waluigi","Water"],
+            "x" : ["Xenomorph","X-Chromosome","Xylophone","X-Factor"],
+            "y" : ["Yacht","YEEEET","Ying","Yellow","Yoyo","You","Youth","Youngster","Yang","Y-Chromosome"],
+            "z" : ["Zoo","Zit"]
+        }
+    },
+    "maniac_faces" : [
+        "`◉w◉´",
+        "`◎w◎´",
+        "◍w◍",
+        "◕w◕",
+        "OwO",
+        "O▵O",
+        "◕▵◕",
+        "░░░▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓\n░▓▓▓░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓░░░▓▓▓\n▓▓░░░░░░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░░░░░░░░░▓▓\n▓▓░░░░░░░░░▓▓▓▓░░░░▓▓▓▓▓▓▓░░░░▓▓▓▓░░░░░░░░▓▓\n░▓▓░░░░░░░▓▓▓▓▓░░░░▓▓▓▓▓▓░░░░▓▓▓▓▓░░░░░░░▓▓▓\n░░▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓\n░░░░▓▓░░░░░░░░░░░▓░░▓▓▓▓░░▓▓░░░░░░░░░░▓▓░\n░░░░▓▓░░░░░░░░░░░░▓▓▓░░░▓▓▓░░░░░░░░░░░▓▓░"
+    ]
+}
