@@ -2,4 +2,4 @@
 !.gitignore
 !README.md
 !bebab.png
-!/lang/**
+!lang/**
