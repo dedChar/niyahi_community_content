@@ -55,12 +55,12 @@
         ":open_mouth: ",
         "So direct.. ",
         "You make me horny... ",
-        "I feel horny, where's Maniac...", 
+        "I feel horny, where's Maniac...",
         "Registering wet words..\n"
     ],
     "keywords_horny" : [
         "horny",
-         "penis",
+        "penis",
         "dick",
         "cock",
         "vagina",
@@ -102,7 +102,9 @@
         "Calm down.. ",
         ":open_mouth: ",
         "Mean words :I ",
-        "Hey be nice. "
+        "Hey be nice. ",
+        "What did I ever do to you to deserve this? ",
+        "Dude, chill... "
     ],
     "rando" : {
         "asked" : [
@@ -115,12 +117,12 @@
     "acronym" : {
         "adjective" : {
             "a" : ["arabic","anal","arabish","assumed","abled","above","academic","accelerating","accepting","active","accurate","angsty"],
-            "b" : ["big","bundled","biggoted","blue","bogus","bitchy","black"],
+            "b" : ["big","bundled","biggoted","blue","bogus","bitchy","black","bearable"],
             "c" : ["creative","concealed","courageous","crispy","chinese","careful","capable","caring","calm","cautious","cold","cool"],
-            "d" : ["dangling","dumb","dope","dimm","dank","disabled","dehydrated"],
-            "e" : ["enraged","embeded","endangered","erosive","enabled"],
-            "f" : ["fucked","fried","fidget","fat","fragile","fake","famous","fuckable","fucktastic", "Fuckable"],
-            "g" : ["gimped","giant","great","grave","great","gigantic","gay","ghastly","ginger","genderfluid","green"],
+            "d" : ["dangling","dumb","dope","dimm","dank","disabled","dehydrated","dead", "dark"],
+            "e" : ["enraged","embeded","endangered","erosive","enabled","excited","exaggerated","entertaining"],
+            "f" : ["fucked","fried","fidget","fat","fragile","fake","famous","fuckable","fucktastic","ferromagnetic","false"],
+            "g" : ["gimped","giant","great","grave","gigantic","gay","ghastly","ginger","genderfluid","green","godly","galactic"],
             "h" : ["helping","homosexual","holy","haunted","hindered","half","hairy","hard","handheld","happy","harmful","horny","hetero","hot","half-assed","hydrated"],
             "i" : ["itchy","intellectual","iconic","idiotic","ignorant","illegal","illogical","illuminating","impressive"],
             "j" : ["joking","jizzing","jazzy","jelly","jade","jerking","jewish","junior","joyful","jealous"],
@@ -133,10 +135,10 @@
             "q" : ["quoted","quantized","quality","qualified","quick","quadratic","quiet"],
             "r" : ["rigged","retarded","rallied","rolled-over","raped","randomized","red","racist","rainy","real"],
             "s" : ["slayed","silly","stiff","stretched","stared","smelly","soft","sick","shiny","sacred","sagging","salty","sore","sour"],
-            "t" : ["tampered","triangled","tender","tall","terrorizing"],
+            "t" : ["tampered","triangled","tender","tall","terrorizing","terrible","timed","tremendous"],
             "u" : ["unbeatable","undermined","unbelievable","unbirth","ugly","unimpressive","underaged"],
-            "v" : ["vaginal","vigirous","vandalizing","violet","virgin"],
-            "w" : ["whimsy","widenend","worn-out","well","whiny"],
+            "v" : ["vaginal","vigirous","vandalizing","violet","virgin","violent","valid","valued"],
+            "w" : ["whimsy","widenend","worn-out","well","whiny","wild","waxed"],
             "x" : ["xerographic","xanthous","xenomorphed","xeric","xenophobic","xenosexual"],
             "y" : ["yellow","yearly","young","yummy","yucky","yankee"],
             "z" : ["zapped","zipped","zigzag","zealouse","zany","zonary","zombie","zoological"]
@@ -148,16 +150,16 @@
             "d" : ["Dog","Dick","Dam","Dab","Dip","Driver","Dream","Deaf","Donald","Dust","Death","Duck","Damage","Dorito"],
             "e" : ["Egypt","Enderman","Erection","Eagle","Earphones","Eye", "Eggplant","Eucalyptus"],
             "f" : ["Food","Fan","Feet","Fuckboy","Fuck","Forest","Fence","Frog","Fridge","Family","Fun","Fire","Finger","Führer"],
-            "g" : ["Ginger","Gold","Gallium","Gate","Gun","Graphics","Gear","Giraffe","Goose"],
-            "h" : ["Hades","Horse","Hell","Heaven","Hogwards","Hydrater","Hair","House","Home","Hand","Hitler"],
-            "i" : ["Iron","Inductor","Item","Iphone","Imac","Impression","Implementation", "Internet", "Interior"],
+            "g" : ["Ginger","Gold","Gallium","Gate","Gun","Graphics","Gear","Giraffe","Goose","Germany","Googolplex","Galaxy"],
+            "h" : ["Hades","Horse","Hell","Heaven","Hogwards","Hydrater","Hair","House","Home","Hand","Hitler","Honey","Hoarder"],
+            "i" : ["Iron","Inductor","Item","Iphone","Imac","Impression","Implementation","Internet","Interior","Intern"],
             "j" : ["Jesus","Jade","Judy","Jacob","Jaguar","Jackdaniels","Jeans","Jerome","July","June","Jellyfish","Jell-O"],
             "k" : ["Killer","Kite","Kindergarten","Knight","Krypton"],
             "l" : ["Label","Liquer","Lady","Lord","Luigi","Lymph","Lion","Liquid","Life","Lamp","Llama"],
             "m" : ["Mario","Man","Mouth","Milestone","Mine","Maggot","Minecraft","Mother","Mole","Microplastic","Microscope","Microphone","Mortal"],
             "n" : ["Nipples","Netherland","Night","Niggerland","Northpole","Nose","Norway","Narcissism"],
             "o" : ["Opus","Octagon","Octopus","Oven","Ovary","Octave","Olive","Ogre","Orange"],
-            "p" : ["Penis","Pen","Park","Pizza","Paint","Poker","Playboy","Processor","Paintbrush","Pyjamaparty"],
+            "p" : ["Penis","Pen","Park","Pizza","Paint","Poker","Playboy","Processor","Paintbrush","Pyjamaparty","Party","Painter","Penthouse"],
             "q" : ["Quote","Quarks","Question","Queen","Qualification"],
             "r" : ["Racism","Racist","Revolution","Rights","River","Revenge","Rape","Rainbow","Rectum","Rhyme","Raindeer","Rain","Reptile"],
             "s" : ["Spinner","Screen","Sperm","Sky","Shotgun","Smegma","Speakers","Silence","Soap","Sleepover","Sphincter","Slug","Subreddit"],
@@ -179,6 +181,7 @@
         "O▵O",
         "◕▵◕",
         "μwμ",
-	"ÖwÖ", "░░░▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓\n░▓▓▓░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓░░░▓▓▓\n▓▓░░░░░░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░░░░░░░░░▓▓\n▓▓░░░░░░░░░▓▓▓▓░░░░▓▓▓▓▓▓▓░░░░▓▓▓▓░░░░░░░░▓▓\n░▓▓░░░░░░░▓▓▓▓▓░░░░▓▓▓▓▓▓░░░░▓▓▓▓▓░░░░░░░▓▓▓\n░░▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓\n░░░░▓▓░░░░░░░░░░░▓░░▓▓▓▓░░▓▓░░░░░░░░░░▓▓░\n░░░░▓▓░░░░░░░░░░░░▓▓▓░░░▓▓▓░░░░░░░░░░░▓▓░"
+	      "ÖwÖ",
+        "░░░▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓\n░▓▓▓░░▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓░░░▓▓▓\n▓▓░░░░░░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░░░░░░░░░▓▓\n▓▓░░░░░░░░░▓▓▓▓░░░░▓▓▓▓▓▓▓░░░░▓▓▓▓░░░░░░░░▓▓\n░▓▓░░░░░░░▓▓▓▓▓░░░░▓▓▓▓▓▓░░░░▓▓▓▓▓░░░░░░░▓▓▓\n░░▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░░░░░▓▓▓▓\n░░░░▓▓░░░░░░░░░░░▓░░▓▓▓▓░░▓▓░░░░░░░░░░▓▓░\n░░░░▓▓░░░░░░░░░░░░▓▓▓░░░▓▓▓░░░░░░░░░░░▓▓░"
     ]
 }
